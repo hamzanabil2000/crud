@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "Uzair Nabil",
+      "email": "uzairspk@gmail.com",
+      "phone": "030955965092",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Muhammad Ali",
+      "email": "ali@gmail.com",
+      "phone": "13245642",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Hamza Nabil",
+      "email": "hamzapk@gmail.com",
+      "phone": "03318213810",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
